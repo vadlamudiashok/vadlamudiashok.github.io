@@ -6,14 +6,6 @@ font-display: swap;
 font-weight: 700;
 src: url(https://vadlamudiashok.github.io/Fonts/J&J CircularTT-Black.ttf) format('truetype');
 }
-/*J&J Circular */
-@font-face {
-font-family: 'J&J Circular';
-font-style: italic;
-font-display: swap;
-font-weight: 700;
-src: url(https://vadlamudiashok.github.io/Fonts/J&J CircularTT-BlackItalic.ttf) format('truetype');
-}
 
 
 
