@@ -17,10 +17,34 @@ src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-BlackItalic.ttf) form
 /*J&J Circular */
 @font-face {
 font-family: 'J&J Circular';
-font-style: bolditalic;
+font-style: bold;
 font-display: swap;
 font-weight: 700;
 src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Bold.ttf) format('truetype');
+}
+/*J&J Circular */
+@font-face {
+font-family: 'J&J Circular';
+font-style: bold italic;
+font-display: swap;
+font-weight: 700;
+src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Bolditalic.ttf) format('truetype');
+}
+/*J&J Circular */
+@font-face {
+font-family: 'J&J Circular';
+font-style: normal;
+font-display: swap;
+font-weight: 700;
+src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Book.ttf) format('truetype');
+}
+/*J&J Circular */
+@font-face {
+font-family: 'J&J Circular';
+font-style: italic;
+font-display: swap;
+font-weight: 700;
+src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Bookitalic.ttf) format('truetype');
 }
 
 
