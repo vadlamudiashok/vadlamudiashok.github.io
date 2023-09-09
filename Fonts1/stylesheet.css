@@ -1,7 +1,8 @@
-/*J&J CircularTT-Black */
+/Cirblack */
 @font-face {
-font-family: 'J&J CircularTT-Black';
+font-family: 'Cirblack';
 font-style: normal;
 font-display: swap;
-src: url(https://your-web-server.com/fonts/tinos/J&J CircularTT-Black.ttf) format('truetype');
+font-weight: 700;
+src: url(https://vadlamudiashok.github.io/Fonts1/Cirblack.ttf) format('truetype');
 }
