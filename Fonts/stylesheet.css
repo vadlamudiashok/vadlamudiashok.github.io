@@ -6,7 +6,7 @@ font-weight: 400;
 font-display: swap;
 src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Black.ttf) format('truetype');
 }
-/* Circular Normal*/
+/* Circular Italic*/
 @font-face {
 font-family: 'Circular';
 font-style: italic;
@@ -14,4 +14,19 @@ font-weight: 400;
 font-display: swap;
 src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Blackitalic.ttf) format('truetype');
 }
-
+/* Circular Bold*/
+@font-face {
+font-family: 'Circular';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Bold.ttf) format('truetype');
+}
+/* Circular Bold Italic*/
+@font-face {
+font-family: 'Circular';
+font-style: italic;
+font-weight: 700;
+font-display: swap;
+src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Bolditalic.ttf) format('truetype');
+}
