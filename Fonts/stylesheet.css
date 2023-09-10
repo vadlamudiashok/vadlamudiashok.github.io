@@ -6,4 +6,12 @@ font-weight: 400;
 font-display: swap;
 src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Black.ttf) format('truetype');
 }
+/* Circular Normal*/
+@font-face {
+font-family: 'Circular';
+font-style: italic;
+font-weight: 400;
+font-display: swap;
+src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Blackitalic.ttf) format('truetype');
+}
 
