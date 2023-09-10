@@ -1,0 +1,32 @@
+/* CircularTT Normal*/
+@font-face {
+font-family: 'CircularTT';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Regular.ttf) format('truetype');
+}
+/* CircularTT Italic*/
+@font-face {
+font-family: 'CircularTT';
+font-style: italic;
+font-weight: 400;
+font-display: swap;
+src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Italic.ttf) format('truetype');
+}
+/* CircularTT Bold*/
+@font-face {
+font-family: 'CircularTT';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Bold.ttf) format('truetype');
+}
+/* CircularTT Bold Italic*/
+@font-face {
+font-family: 'CircularTT';
+font-style: italic;
+font-weight: 700;
+font-display: swap;
+src: url(https://vadlamudiashok.github.io/Fonts/CircularTT-Bolditalic.ttf) format('truetype');
+}
